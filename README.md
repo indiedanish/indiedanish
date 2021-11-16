@@ -3,7 +3,7 @@
 
  - 🎓  3rd year Computer Science student at <strong> COMSATS University Islamabad. </strong>
  - ✨ <strong> Google DSC Marketing Lead </strong> for COMSATS University Islamabad.
- - 🌱 Currently learning <strong> MERN STACK </strong>
+ - 💻 Currently learning <strong> MERN STACK </strong>
  - 💗 ML Enthusiast 
  - 🥇  <strong>Freelancer</strong> at <strong>Fiverr:</strong> [voice_guru ](https://www.fiverr.com/voice_guru) | <strong>Level One Seller</strong>
  - 📫 How to reach me: [Linkedin: indiedanish](https://www.linkedin.com/in/indiedanish/)
