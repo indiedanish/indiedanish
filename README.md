@@ -1,8 +1,8 @@
 ### Hi there, I'm Danish Butt 👋
 
 
- - 🎓  3rd year Computer Science student at <strong> COMSATS University Islamabad. </strong>
- - ✨ <strong> Google DSC Marketing Lead </strong> for COMSATS University Islamabad.
+ - 🎓  3rd year Computer Science student at <strong> COMSATS University Islamabad. </strong> 
+ - ✨ <strong> Google DSC [Marketing Lead](https://gdsc.community.dev/u/mjgtm7/#/about) </strong> for COMSATS University Islamabad.
  - 💻 Currently learning <strong> MERN STACK </strong>
  - 💗 ML Enthusiast 
  - 🥇  <strong>Freelancer</strong> at <strong>Fiverr:</strong> [voice_guru ](https://www.fiverr.com/voice_guru) | <strong>Level One Seller</strong>
