@@ -22,6 +22,7 @@
 <a href="mailto:danishbutt_db@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/indiedanish/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-BB2A7F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/danishbuttdb/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1A6ED8?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.youtube.com/c/indiedanish/" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
 
 
 <div align="center">
