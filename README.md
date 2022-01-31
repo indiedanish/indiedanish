@@ -5,9 +5,9 @@
  - ✨ <strong> Google DSC [Marketing Lead](https://gdsc.community.dev/u/mjgtm7/#/about) </strong> for COMSATS University Islamabad.
  - 💻 Currently learning <strong> MERN STACK </strong>
  - 💗 ML Enthusiast 
- - 🥇 <strong>Level One Seller</strong> at <strong>Fiverr:</strong> [voice_guru ](https://www.fiverr.com/voice_guru) 
- - 📫 How to reach me: [Linkedin: indiedanish](https://www.linkedin.com/in/indiedanish/)
- - ⚡ Fun fact: I have a Music [YouTube Channel: indiedanish](https://youtube.com/c/indiedanish). I play piano, guitar and also write & produce Music
+ - 🥇 <strong>Level One Seller</strong> at <strong>Fiverr: [Voice_guru ](https://www.fiverr.com/voice_guru) </strong> 
+ - 📫 How to reach me: <strong> [Linkedin: indiedanish](https://www.linkedin.com/in/indiedanish/) </strong>
+ - ⚡ Fun fact: I have a Music <strong> [YouTube Channel: indiedanish](https://youtube.com/c/indiedanish) </strong>. I play piano, guitar and also write & produce Music
 
 
 ##  🤝🏻 &nbsp;Connect with Me
