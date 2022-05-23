@@ -7,7 +7,7 @@
  - 💗 ML Enthusiast 
  - 🥇 <strong>Level One Seller</strong> at <strong>Fiverr: [Voice_guru ](https://www.fiverr.com/voice_guru) </strong> 
  - 📫 How to reach me: <strong> [Linkedin: indiedanish](https://www.linkedin.com/in/indiedanish/) </strong>
- - ⚡ Fun fact: I have a Music <strong> [YouTube Channel: indiedanish](https://youtube.com/c/indiedanish) </strong>. I play piano, guitar and also write & produce Music
+ - ⚡ Fun fact: I have a Music <strong> [YouTube Channel: indiedanish](https://youtube.com/c/indiedanish) </strong>. I play piano, guitar and also write songs & produce Music
 
 
 ##  🤝🏻 &nbsp;Connect with Me
