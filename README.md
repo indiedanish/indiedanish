@@ -32,5 +32,3 @@
 
 ![indiedanish's Streak](https://github-readme-streak-stats.herokuapp.com/?user=indiedanish&theme=radical&hide_border=false)
 
-![indiedanish's Stats](https://github-readme-stats.vercel.app/api?username=indiedanish&theme=radical&show_icons=true&hide_border=false&count_private=true)
-
