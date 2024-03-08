@@ -27,8 +27,10 @@
 
 
 <div align="center">
+
+![indiedanish's Streak](https://github-readme-streak-stats.herokuapp.com/?user=indiedanish&theme=radical&hide_border=false)
  
 [![Danish's github trophy](https://github-profile-trophy.vercel.app/?username=indiedanish&row=1)](https://github.com/indiedanish/github-profile-trophy)
 
-![indiedanish's Streak](https://github-readme-streak-stats.herokuapp.com/?user=indiedanish&theme=radical&hide_border=false)
+
 
