@@ -1,7 +1,7 @@
 ### Hi there, I'm Danish Butt 👋
 
-
- - 🎓  Final year Computer Science student at <strong> COMSATS University Islamabad. </strong> 
+ - 👨‍💻 Project Lead at Cowlar
+ - 🎓 Computer Science graduate from COMSATS University Islamabad (2023)
  - ✨ <strong>Ex-Google DSC [Marketing Lead](https://gdsc.community.dev/u/mjgtm7/#/about) </strong> for COMSATS University Islamabad.
  - 💻 <strong> MERN STACK </strong>
  - ✨ Open Source Contributor
