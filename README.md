@@ -1,9 +1,9 @@
 ### Hi there, I'm Danish Butt 👋
 
- - 👨‍💻 Project Lead at Cowlar
+ - 👨‍💻 <strong> Project Lead </strong> at Cowlar (YC W17) 
  - 🎓 Computer Science graduate from COMSATS University Islamabad (2023)
- - ✨ <strong>Ex-Google DSC [Marketing Lead](https://gdsc.community.dev/u/mjgtm7/#/about) </strong> for COMSATS University Islamabad.
- - 💻 <strong> MERN STACK </strong>
+ - ✨ <strong>Ex-Google DSC [Marketing Lead](https://gdsc.community.dev/u/mjgtm7/#/about) </strong> for CUI
+ - 💻 <strong> MERN STACK | MEVN </strong>
  - ✨ Open Source Contributor
  - 💗 DevOps Enthusiast  
  - 📫 How to reach me: <strong> [Linkedin: indiedanish](https://www.linkedin.com/in/indiedanish/) </strong>
