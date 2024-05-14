@@ -1,6 +1,6 @@
 ### Hi there, I'm Danish Butt 👋
 
- - 👨‍💻 <strong> xProject Lead </strong> at Cowlar <strong> (YC W17) </strong>  
+ - 👨‍💻 <strong> Ex-Project Lead </strong> at Cowlar <strong> (YC W17) </strong>  
  - 🎓 Computer Science graduate from COMSATS University Islamabad (2023)
  - ✨ <strong>Ex-Google DSC [Marketing Lead](https://gdsc.community.dev/u/mjgtm7/#/about) </strong> for CUI
  - 💻 <strong> MERN STACK | MEVN </strong>
