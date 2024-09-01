@@ -1,5 +1,5 @@
-### Hi there, I'm Danish Butt 👋
-
+### Hi there, I'm Danish Butt 👋 
+ - ⚡ <strong>[Portfolio Link](https://indiedanish.com)</strong>
  - 👨‍💻 <strong> Ex-Project Lead </strong> at Cowlar <strong> (YC W17) </strong>  
  - 🎓 Computer Science graduate from COMSATS University Islamabad (2023)
  - ✨ <strong>Ex-Google DSC [Marketing Lead](https://gdsc.community.dev/u/mjgtm7/#/about) </strong> for CUI
