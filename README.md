@@ -49,7 +49,7 @@ Follow these simple steps to start contributing:
 2. Visit the [Plone Contributor Agreement](https://plone.org/foundation/contributors-agreement) to sign up. Once signed, you’ll automatically be added to the repository.
 3. Become a part of the conversation! [Join the Plone Discord Server](https://discord.gg/w8e5WCAKGs) and introduce yourself to the community.
 4. Clone the [Volto GitHub](https://github.com/plone/volto) (frontend) repository and follow the README instructions. Use `make backend-docker-start` to set up the backend, and you’re ready to contribute!
-5. Follow me on Github, **I'll be sharing/forking more repos (if you follow it'll come automatically to your GitHub feed), Let's do this together**
+5. Follow me on Github, **I'll be sharing/forking more repos (if you follow it'll come automatically to your GitHub feed and will also motivate me xd), Let's do this together**
 ####
 
 ⚡ Fun Facts: 
