@@ -52,8 +52,11 @@ Follow these simple steps to start contributing:
 3. Become a part of the conversation! [Join the Plone Discord Server](https://discord.gg/w8e5WCAKGs) and introduce yourself to the community.
 4. Clone the Volto GitHub repository and follow the README instructions. Use `make backend-docker-start` to set up the backend, and you’re ready to contribute!
 5. Follow me on Github, **I'll be sharing/forking more repos (if you follow it'll come automatically to your GitHub feed), Let's do this together**
+####
 
-
+⚡ Fun Facts: 
+* Plone CMS is used by NASA. 
+* They also participates in GSoC 
 
 
 
