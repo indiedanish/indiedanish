@@ -53,8 +53,8 @@ Follow these simple steps to start contributing:
 ####
 
 ⚡ Fun Facts: 
-* Plone CMS is used by NASA. 
-* They also participates in GSoC 
+* The NASA Mars Rover site is powered by Plone
+* They participates in GSoC every year now (2016, 2017, 2018, 2022, 2023, 2024) 
 
 
 
