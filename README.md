@@ -39,7 +39,7 @@
 ##
 
 
-## A guide for those who want to start an Open-Source Contribution journey with React JS
+## A guide for those who want to start their Open-Source Contribution journey with React JS
 
 Welcome to your entry point for open-source contributions! 🌍
 
