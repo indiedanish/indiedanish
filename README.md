@@ -35,8 +35,6 @@
 ##
 ##
 ##
-##
-##
 
 
 ## A guide for those who want to start their Open-Source Contribution journey with React JS
