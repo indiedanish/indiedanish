@@ -26,8 +26,7 @@
 
 
 <div align="center">
-
-![indiedanish's Streak](https://camo.githubusercontent.com/7a4f0b3271f015afd170d388f6acb78c4d9840725c249661ae99e5405b2da424/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d696e64696564616e697368)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=indiedanish" alt="GitHub Streak" /></a>
 </div>
 
 
