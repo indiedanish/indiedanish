@@ -7,7 +7,7 @@
  - ✨ Open Source Contributor
  - 💗 DevOps Enthusiast  
  - 📫 How to reach me: <strong> [Linkedin: indiedanish](https://www.linkedin.com/in/indiedanish/) </strong>
- - ⚡ Fun fact: I have a Music <strong> [YouTube Channel: indiedanish](https://youtube.com/c/indiedanish) </strong>. I play piano, guitar and also write songs & produce Music
+ - ⚡ Fun fact: I have a Music <strong> [YouTube Channel: indiedanish](https://youtube.com/c/indiedanish) </strong>. I play piano, guitar, write songs & produce Music, when i'm free
 
 
 ##  🤝🏻 &nbsp;Connect with Me
