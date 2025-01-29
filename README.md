@@ -27,7 +27,7 @@
 
 
 <div align="center">
-<a href="https://github-readme-streak-stats-zeta-livid.vercel.app?user=indiedanish"><img src="https://github-readme-streak-stats-zeta-livid.vercel.app?user=indiedanish" alt="GitHub Streak" /></a>
+<a href="https://github-readme-streak-stats-zeta-livid.vercel.app?user=indiedanish&theme=chartreuse-dark"><img src="https://github-readme-streak-stats-zeta-livid.vercel.app?user=indiedanish&theme=chartreuse-dark" alt="GitHub Streak" /></a>
 
 </div>
 
