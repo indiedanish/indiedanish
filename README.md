@@ -1,7 +1,7 @@
 ### Hi there, I'm Danish Butt 👋 
  - ⚡ <strong>[Portfolio Link](https://indiedanish.com)</strong>
  - 👨‍💻 Currently, working as a Senior Software Engineer at Placentek<strong> (Remote) </strong>  
- - 👨‍💻 <strong> Ex-Project Lead </strong> at Cowlar <strong> (YC W17) </strong>  
+ - 👨‍💻 <strong> Software Engineer </strong> at Cowlar <strong> (YC W17) </strong>  
  - 🎓 Computer Science graduate from COMSATS University Islamabad (2023)
  - ✨ <strong>Ex-Google DSC [Marketing Lead](https://gdsc.community.dev/u/mjgtm7/#/about) </strong> for CUI
  - 💻 <strong> MERN STACK | MEVN </strong>
