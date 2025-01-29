@@ -4,7 +4,7 @@
  - 👨‍💻 <strong> Software Engineer </strong> at Cowlar <strong> (YC W17) </strong>  
  - 🎓 Computer Science graduate from COMSATS University Islamabad (2023)
  - ✨ <strong>Ex-Google DSC [Marketing Lead](https://gdsc.community.dev/u/mjgtm7/#/about) </strong> for CUI
- - 💻 <strong> MERN STACK | MEVN </strong>
+ - 💻 <strong> Next | Typescript | Express | Mongo | Postgres | DevOps </strong>
  - ✨ Open Source Contributor
  - 💗 DevOps Enthusiast  
  - 📫 How to reach me: <strong> [Linkedin: indiedanish](https://www.linkedin.com/in/indiedanish/) </strong>
