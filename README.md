@@ -6,7 +6,7 @@
  - ✨ <strong>Ex-Google DSC [Marketing Lead](https://gdsc.community.dev/u/mjgtm7/#/about) </strong> for CUI
  - 💻 Python, Node.js, TypeScript, React, PostgreSQL, AWS, Docker, CI/CD. Also hands-on with AI/LLM integrations and production systems.
  - 📫 How to reach me: <strong> [Linkedin: indiedanish](https://www.linkedin.com/in/indiedanish/) </strong>
- - ⚡ Fun fact: When I'm burned out, I play piano and guitar <strong> [YouTube Channel: indiedanish](https://youtube.com/c/indiedanish) </strong>
+ - ⚡ Fun fact: When I'm burned out, I play piano and guitar
 
 
 ##  🤝🏻 &nbsp;Connect with Me
